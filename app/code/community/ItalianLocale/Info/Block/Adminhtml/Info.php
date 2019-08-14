@@ -1,5 +1,5 @@
 <?php
-/* @copyright Copyright (c) 2013 Black Cat - Antonio Carboni - http://antoniocarboni.com */
+/* @copyright Copyright (c) 2014 Black Cat - Antonio Carboni - http://antoniocarboni.com */
 class ItalianLocale_Info_Block_Adminhtml_Info
     extends Mage_Adminhtml_Block_Abstract
     implements Varien_Data_Form_Element_Renderer_Interface
