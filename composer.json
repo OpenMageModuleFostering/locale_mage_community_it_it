@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Locale_Mage_community_it_IT",
+    "type": "magento-module",
+    "license": "Academic-Free-License-(AFL)",
+    "homepage": "",
+    "description": "Magento Community Modules -  Pacchetto di lingua italiano (Italia)
+",
+    "authors": [
+    {
+        "name": "Antonio Carboni",
+        "email": "magento@antoniocarboni.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
