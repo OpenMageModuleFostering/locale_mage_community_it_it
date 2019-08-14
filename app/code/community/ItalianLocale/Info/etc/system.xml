@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- @copyright Copyright (c) 2013 Magenio -->
+<!-- @copyright Copyright (c) 2013 Black Cat - Antonio Carboni - http://antoniocarboni.com -->
 <config>
 	<tabs>
-		<italianlocale module="italianlocale" translate="label">
-			<label>Localizzazione Italiana</label>
-			<sort_order>140</sort_order>
-		</italianlocale>
+		<ItalianLocale_Info module="italianlocale" translate="label">
+			<label>Italian Localizzation</label>
+			<sort_order>150</sort_order>
+		</ItalianLocale_Info>
 	</tabs>
     <sections>
         <italianlocale_info translate="label" module="italianlocale">
-            <label>Info Magento per l'Italia</label>
-            <tab>italianlocale</tab>
+            <label>News e Info</label>
+            <tab>ItalianLocale_Info</tab>
             <frontend_type>text</frontend_type>
             <sort_order>1000</sort_order>
             <show_in_default>1</show_in_default>

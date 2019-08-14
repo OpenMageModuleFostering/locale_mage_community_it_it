@@ -1,6 +1,6 @@
 <?php
-/* @copyright Copyright (c) 2013 Magenio */
-class ItalianLocale_It_Block_Adminhtml_Info
+/* @copyright Copyright (c) 2013 Black Cat - Antonio Carboni - http://antoniocarboni.com */
+class ItalianLocale_Info_Block_Adminhtml_Info
     extends Mage_Adminhtml_Block_Abstract
     implements Varien_Data_Form_Element_Renderer_Interface
 {

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- @copyright Copyright (c) 2013 Magenio -->
+<!-- @copyright Copyright (c) 2013 Black Cat - Antonio Carboni - http://antoniocarboni.com -->
 <adminhtml>
 	<acl>
 		<resources>
@@ -10,7 +10,7 @@
 							<config>
 								<children>
 									<italianlocale_info module="italianlocale" translate="title">
-										<title>ItalianLocale_It</title>
+										<title>italianlocale</title>
 										<sort_order>150</sort_order>
 									</italianlocale_info>
 								</children>

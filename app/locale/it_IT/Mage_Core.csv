@@ -156,6 +156,7 @@
 "Invalid block type: %s","Tipo blocco non valido: %s"
 "Invalid block: %s","Blocco non valido: %s"
 "Invalid connection","Connessione non valida"
+"Invalid date","Data non valida"
 "Invalid layout update handle","Aggiornamento layout da gestire non valido"
 "Invalid messages storage ""%s"" for layout messages initialization","Messaggio archiviazione non valido ""%s"" per l\'inizializzazione messaggi layout"
 "Invalid query","Query non valida"
