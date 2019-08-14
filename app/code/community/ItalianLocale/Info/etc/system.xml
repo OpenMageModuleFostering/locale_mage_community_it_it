@@ -3,7 +3,7 @@
 <config>
 	<tabs>
 		<ItalianLocale_Info module="italianlocale" translate="label">
-			<label>Italian Localizzation</label>
+			<label>Italian Localization</label>
 			<sort_order>150</sort_order>
 		</ItalianLocale_Info>
 	</tabs>
